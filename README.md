@@ -2,7 +2,7 @@
 
 - ⚡ Mamis de duas pequenas
 - Estudante de ADS - Quarto Período
-- Aluna de Desenvolvimento Web Node na [@Digital House](https://github.com/DigitalHouseBrasil)
+- Aluna de Desenvolvimento Web Node na [@Digital House](https://github.com/DigitalHouseBrasil) e [@Rocketseat](https://github.com/Rocketseat)
 - Estagiária Tech na Fintech **Blu** 
 - Atualmente estudando `[Node.js, JS, React]`
 - Pronome: she/Her
