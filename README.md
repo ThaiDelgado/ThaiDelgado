@@ -1,10 +1,9 @@
 ### Oii, sou a Thaíssa Delgado 👋
 
-- ⚡ Mamis de duas pequenas
-- Estudante de ADS - Quarto Período
-- Aluna de Desenvolvimento Web Node na [@Digital House](https://github.com/DigitalHouseBrasil) e [@Rocketseat](https://github.com/Rocketseat)
-- Estagiária de Desenvolvimento de Produtos  na **Blu** 
-- Atualmente estudando `[Node.js e Ruby on Rails]`
+- ⚡ Mamis de duas pequenas.
+- Analista de Sistemas.
+- Technical Writer em uma fintech carioca.
+- Gestão do conhecimento.
 - Pronome: she/Her
 
 
