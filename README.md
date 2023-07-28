@@ -1,4 +1,4 @@
-### Oii, sou a Thaíssa Delgado 👋
+### Oii, sou a Thai 👋
 
 - ⚡ Mamis de duas pequenas.
 - Analista de Sistemas.
